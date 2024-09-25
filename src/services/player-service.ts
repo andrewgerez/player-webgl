@@ -82,7 +82,7 @@ const init = async (): Promise<void> => {
   }
 
   script.onerror = (err) => {
-    console.error('Erro ao carregar o script:', err)
+    console.error('error loading script:', err)
   }
 
   const rootElement = document.getElementById('app')
