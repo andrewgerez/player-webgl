@@ -1,0 +1,27 @@
+<html>
+    <head>
+      <style>
+        html, body, * { padding: 0; margin: 0}
+
+        body {
+          width: 100%;
+          height: 100vh;
+          overflow: hidden;
+          background-color: #000;
+        }
+
+        #player-parent {
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          z-index: -1;
+        }
+      </style>
+    </head>
+    <body>
+        <div id="app">
+          <div id="player-parent"></div>
+        </div>
+        <script type="module" src="src/index"></script>
+    </body>
+</html>
