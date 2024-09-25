@@ -67,7 +67,7 @@ Prerequisites for installing and running the application locally.
 
 Andrew Gerez - [Linkedin](https://www.linkedin.com/in/andrewgerez/) - andrewgerez18@gmail.com
 
-Project Link: [https://github.com/andrewgerez/turbo-webgl](https://github.com/andrewgerez/turbo-webgl)
+Project Link: [https://github.com/andrewgerez/turbo-webgl](https://github.com/andrewgerez/player-webgl)
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
